@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Nikelandingpage/static/css/main.471d6a24.css",
+    "main.js": "/Nikelandingpage/static/js/main.1881acc0.js",
+    "static/js/787.8d1bdda8.chunk.js": "/Nikelandingpage/static/js/787.8d1bdda8.chunk.js",
+    "static/media/logo.svg": "/Nikelandingpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nikelandingpage/index.html",
+    "main.471d6a24.css.map": "/Nikelandingpage/static/css/main.471d6a24.css.map",
+    "main.1881acc0.js.map": "/Nikelandingpage/static/js/main.1881acc0.js.map",
+    "787.8d1bdda8.chunk.js.map": "/Nikelandingpage/static/js/787.8d1bdda8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.471d6a24.css",
+    "static/js/main.1881acc0.js"
+  ]
+}
